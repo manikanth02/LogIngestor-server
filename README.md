@@ -40,7 +40,7 @@ After installation, the server can be started using the following commands:
 Make sure to set up your environment variables using a `.env` file and provoide MONGODB URL in `.env` file
  and give `MONGODB_URL` as variable name for MONGODB URL
 
-`I have also send .env file` for reference,if you guys needed in case of trouble that's why i have not added in .`gitignore` file
+`I have also send .env file` for reference,if you guys needed in case of trouble that's why i have not added .env file in .`gitignore` file
 
 ## Scripts
 
